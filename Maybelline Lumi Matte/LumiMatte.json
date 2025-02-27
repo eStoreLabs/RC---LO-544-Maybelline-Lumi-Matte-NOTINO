@@ -1,0 +1,591 @@
+{
+  "keys": ["not yet"],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Maybelline Super Stay Lumi Matte",
+  "rpc": "not yet",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Maybelline Super Stay Lumi Matte",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./KV-m.png",
+                "element": "img",
+                "alt": "Lumi Matte",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./KV.png",
+                "element": "img",
+                "alt": "Lumi Matte",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "Podkład Super Stay Lumi Matte",
+                "element": "h5",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "maxWidth": "75%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<ul><li>Efekt satynowego matu</li><li>Lekka formuła</li><li>Mocne krycie bez efektu maski</li></ul>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "14px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "./MOD-02.png",
+                "element": "img",
+                "alt": "Podkład Super Stay Lumi Matte",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "Podkład Super Stay Lumi Matte",
+                "element": "h5",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "maxWidth": "46%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<ul><li>Efekt satynowego matu</li><li>Lekka formuła</li><li>Mocne krycie bez efektu maski</li></ul>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "14px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "./MOD-02.png",
+                "element": "img",
+                "alt": "Podkład Super Stay Lumi Matte",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-03-m.png",
+                "element": "img",
+                "alt": "30H",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-03.png",
+                "element": "img",
+                "alt": "30H",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-04-m.png",
+                "element": "img",
+                "alt": "Odporny na temperaturę, ścieranie, pot, wodę",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-04.png",
+                "element": "img",
+                "alt": "Odporny na temperaturę, ścieranie, pot, wodę",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "1.5rem",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "text-align": "center",
+                  "fontStyle": "normal"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "center",
+                  "fontStyle": "bold",
+                  "padding": "0 16px"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "Technologia air-flex",
+                "element": "h5",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "maxWidth": "35%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p>wzbogacona aminokwasami</p><br><br><p style=\"text-transform: uppercase; font-weight: bold; font-size: 20px;\">Od średniego <br>do pełnego krycia</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "14px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "./MOD-05.png",
+                "element": "img",
+                "alt": "Podkład Super Stay Lumi Matte",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "Technologia air-flex",
+                "element": "h5",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px",
+                  "maxWidth": "24%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p>wzbogacona aminokwasami</p><br><br><p style=\"text-transform: uppercase; font-weight: bold; font-size: 20px;\">Od średniego <br>do pełnego krycia</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "14px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "./MOD-05.png",
+                "element": "img",
+                "alt": "Podkład Super Stay Lumi Matte",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-06-m.png",
+                "element": "img",
+                "alt": "Wybierz swój odcień",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "./MOD-06.png",
+                "element": "img",
+                "alt": "Wybierz swój odcień",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "INSTANT ERASER",
+                "element": "h6",
+                "properties": {
+                  "marginBottom": "0",
+                  "fontSize": "1.2rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Multifunkcyjny korektor z aplikatorem w formie gąbeczki doskonale konturuje, koryguje i kryje niedoskonałości, zmniejsza widoczność cieni pod oczami oraz nawilża skórę aż do 12 godzin (test\u00A0instrumentalny).",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "./MOD-07-A.png",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "SKY HIGH",
+                "element": "h6",
+                "properties": {
+                  "marginBottom": "0",
+                  "fontSize": "1.2rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "Mascara, która dzięki innowacyjnej technologii oferuje jednocześnie nieziemskie wydłużenie oraz zwiększoną objętość rzęs.",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "./MOD-07-B.png",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "VINYL INK",
+                "element": "h6",
+                "properties": {
+                  "marginBottom": "0",
+                  "fontSize": "1.2rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "Szminka nadająca długotrwały połysk. Intensywny kolor utrzymuje się aż do 16h (test konsumencki (samoocena)), nie rozmazuje się i nie ściera.",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "./MOD-07-C.png",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "*Test konsumencki, 120 osób",
+                "element": "p",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "0.8rem",
+                  "fontWeight": "normal",
+                  "color": "#000",
+                  "text-align": "center",
+                  "fontStyle": "normal"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "center",
+                  "fontStyle": "bold",
+                  "padding": "0 16px"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
