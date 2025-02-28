@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-m.png",
+                "value": "./KV-m.jpg",
                 "element": "img",
                 "alt": "Lumi Matte",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.png",
+                "value": "./KV.jpg",
                 "element": "img",
                 "alt": "Lumi Matte",
                 "properties": []
@@ -93,7 +93,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.png",
+                "value": "./MOD-02.jpg",
                 "element": "img",
                 "alt": "Podkład Super Stay Lumi Matte",
                 "properties": []
@@ -146,7 +146,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.png",
+                "value": "./MOD-02.jpg",
                 "element": "img",
                 "alt": "Podkład Super Stay Lumi Matte",
                 "properties": []
@@ -168,7 +168,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-03-m.png",
+                "value": "./MOD-03-m.jpg",
                 "element": "img",
                 "alt": "30H",
                 "properties": []
@@ -190,7 +190,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-03.png",
+                "value": "./MOD-03.jpg",
                 "element": "img",
                 "alt": "30H",
                 "properties": []
@@ -212,7 +212,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-04-m.png",
+                "value": "./MOD-04-m.jpg",
                 "element": "img",
                 "alt": "Odporny na temperaturę, ścieranie, pot, wodę",
                 "properties": []
@@ -234,7 +234,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-04.png",
+                "value": "./MOD-04.jpg",
                 "element": "img",
                 "alt": "Odporny na temperaturę, ścieranie, pot, wodę",
                 "properties": []
@@ -329,7 +329,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-05.png",
+                "value": "./MOD-05.jpg",
                 "element": "img",
                 "alt": "Podkład Super Stay Lumi Matte",
                 "properties": []
@@ -382,7 +382,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-05.png",
+                "value": "./MOD-05.jpg",
                 "element": "img",
                 "alt": "Podkład Super Stay Lumi Matte",
                 "properties": []
@@ -404,7 +404,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-06-m.png",
+                "value": "./MOD-06-m.jpg",
                 "element": "img",
                 "alt": "Wybierz swój odcień",
                 "properties": []
@@ -426,7 +426,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-06.png",
+                "value": "./MOD-06.jpg",
                 "element": "img",
                 "alt": "Wybierz swój odcień",
                 "properties": []
@@ -470,7 +470,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-07-A.png",
+                "value": "./MOD-07-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -498,7 +498,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-07-B.png",
+                "value": "./MOD-07-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -526,7 +526,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-07-C.png",
+                "value": "./MOD-07-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
